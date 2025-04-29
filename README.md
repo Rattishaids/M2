@@ -1,4 +1,6 @@
 # EX-06 - Looping
+NAME : RATTISH KUMAR SS
+REG NO: 212224230223
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
 
